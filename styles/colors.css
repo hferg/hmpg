@@ -4,25 +4,25 @@
     --wallpaper: url("/home/hfg/Pictures/background/bg.jpg");
 
     /* Special */
-    --background: #0f170a;
-    --foreground: #cadda4;
-    --cursor: #cadda4;
+    --background: #111818;
+    --foreground: #e6dbbc;
+    --cursor: #e6dbbc;
 
     /* Colors */
-    --color0: #0f170a;
-    --color1: #278D56;
-    --color2: #72944C;
-    --color3: #9A9F33;
-    --color4: #D8C330;
-    --color5: #AC8C48;
-    --color6: #8FAD50;
-    --color7: #cadda4;
-    --color8: #8d9a72;
-    --color9: #278D56;
-    --color10: #72944C;
-    --color11: #9A9F33;
-    --color12: #D8C330;
-    --color13: #AC8C48;
-    --color14: #8FAD50;
-    --color15: #cadda4;
+    --color0: #111818;
+    --color1: #7F815E;
+    --color2: #9F916C;
+    --color3: #CCAC7A;
+    --color4: #E2C47B;
+    --color5: #B6A385;
+    --color6: #D5B685;
+    --color7: #e6dbbc;
+    --color8: #a19983;
+    --color9: #7F815E;
+    --color10: #9F916C;
+    --color11: #CCAC7A;
+    --color12: #E2C47B;
+    --color13: #B6A385;
+    --color14: #D5B685;
+    --color15: #e6dbbc;
 }
